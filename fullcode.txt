@@ -1,0 +1,5 @@
+Hello! This is the code to open the first box:
+772
+
+What follows is a load of gubbins that you can ignore (for now):
+aaaaaaaaaaaaaaaaa etc
